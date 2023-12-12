@@ -20,6 +20,8 @@
    }
   }
   &__links {
-    a
+    a{
+      font-size: $font-sm;
+    }
   }
 }
